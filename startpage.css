@@ -1,9 +1,10 @@
 *{
     box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace
 }
 
 body{
-    background-color: rgb(11, 39, 48);
+    background-color: #11313C;
     margin: 0;
     padding: 0;
     display: flex;
@@ -26,9 +27,11 @@ body{
 .section{
     display: flex;
     flex-direction: row;
-    width: 100%;
+    flex-wrap: wrap;
     height: fit-content;
     padding: 10px;
+    width: 100%;
+
 }
 
 
@@ -43,7 +46,7 @@ body{
     padding: 10px;
     /* background-color: rgba(255, 255, 255, 0.2); */
     padding: 20px;
-    
+    min-width: 250px;
 }
 
 
@@ -64,7 +67,7 @@ a{
     
 }
 
-.s5{
+.s6{
     background-color: #12232f;
 }
 .s5{
@@ -89,4 +92,18 @@ a{
 
 h2{
     color: white;
+    font-size: 2em;
+}
+
+@media only screen and (max-width: 600px){
+    
+    .section{
+        flex-direction: column;
+    }
+    .textBox{
+        width: 100%;
+    }
+    .image{
+        width: 100%;
+    }
 }
