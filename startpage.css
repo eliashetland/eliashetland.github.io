@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #11313C;
+    background-color: #172c33;
     margin: 0;
     padding: 0;
     display: flex;
@@ -79,7 +79,7 @@ a{
     background-color: #558976;
 }
 .s3{
-    background-color: #354f4f;
+    background-color: rgb(20, 28, 39);
 }
 .s2{
     background-color: #060d12;
