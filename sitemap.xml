@@ -2,9 +2,16 @@
 <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
 <loc>https://eliashetland.com/</loc>
-<lastmod>2024-05-21T16:41:47+00:00</lastmod>
+<lastmod>2024-03-27T16:41:47+00:00</lastmod>
 <priority>1.00</priority>
 </url>
+
+<url>
+<loc>https://localevent.app/</loc>
+<lastmod>2025-03-27T00:00:00+00:00</lastmod>
+<priority>0.90</priority>
+</url>
+
 <url>
 <loc>https://eliashetland.com/sortingVisualizer/</loc>
 <lastmod>2023-10-19T09:44:39+00:00</lastmod>
@@ -21,8 +28,8 @@
 <priority>0.80</priority>
 </url>
 <url>
-<loc>https://eliashetland.com/cook/</loc>
-<lastmod>2023-11-06T11:13:08+00:00</lastmod>
+<loc>https://eliashetland.com/cookbook/</loc>
+<lastmod>2025-03-27T11:13:08+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
@@ -35,14 +42,5 @@
 <lastmod>2023-09-28T18:45:08+00:00</lastmod>
 <priority>0.80</priority>
 </url>
-<url>
-<loc>https://eliashetland.com/cook/createRecipe.html</loc>
-<lastmod>2023-11-06T11:13:08+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://eliashetland.com/cook/index.html</loc>
-<lastmod>2023-11-06T11:13:08+00:00</lastmod>
-<priority>0.51</priority>
-</url>
+
 </urlset>
