@@ -50,8 +50,8 @@ body {
   margin-top: 10px;
 }
 
-.cover{
-    object-fit: cover;
+.cover {
+  object-fit: cover;
 }
 
 .textBox {
@@ -88,6 +88,10 @@ h1 {
   gap: 10px;
 }
 
+.s9 {
+  background-color: #0a192f;
+}
+
 .s8 {
   background-color: #000102;
 }
@@ -119,11 +123,10 @@ h1 {
 
 .sWhite {
   background-color: #ffffff;
-
 }
 
 .header .textBox {
-    justify-content: center;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 600px) {
@@ -135,7 +138,7 @@ h1 {
     width: 100%;
     height: 250px;
   }
-  .cover{
+  .cover {
     object-fit: contain;
   }
 }
